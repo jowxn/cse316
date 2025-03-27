@@ -58,7 +58,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/cpu-scheduling-comparison.git
+git clone https://github.com/jowxn/cse316.git
 cd cpu-scheduling-comparison
 
 Install dependencies:
