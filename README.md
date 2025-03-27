@@ -93,7 +93,7 @@ Multi-core scheduling support.
 
 Contributors
 
-Jowan Jow Mathew
+Jowan Joe Mathew
 Thomas Prinil
 Mazin Hami C M
 
